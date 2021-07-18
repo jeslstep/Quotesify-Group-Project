@@ -2,6 +2,9 @@
 This is a tool that helps insurance companies, brokers, and employers do business with one another. This app will manage employee data securely and simplify the process for employers to apply for health insurance packages.
 
 ## Website
+
+this link can take up to 30 seconds to load since I am using a free dyno on heroku for hosting:
+
 https://www.quotesify.app/#/home
 
 ## Built With
